@@ -1,8 +1,8 @@
 -------------------------------------------------------------------PLATFORMS---------------------------------------------------------------------------------------------
-This is libiary for C/C++
+This is library for C/C++
 
 ------------------------------------------------------------------INSTRUCTIONS-------------------------------------------------------------------------------------------
-This pre defined libiary
+This pre defined library
 
 Either you can add this header directly into the directory of compiler,So you can just pre-define as #include <lib.h>
 
